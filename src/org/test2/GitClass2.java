@@ -26,6 +26,20 @@ public class GitClass2 {
 
 	}
 	
+	public  void test7() {
+		System.out.println("test 7");
+
+	}
+	public  void test8() {
+		System.out.println("test 8");
+
+	}
+	public  void test9() {
+		System.out.println("test 9");
+
+	}
+
+
 	public static void main(String[] args) {
 		GitClass2 t = new GitClass2();
 		t.test1();
@@ -34,7 +48,9 @@ public class GitClass2 {
 		t.test4();
 		t.test5();
 		t.test6();
-		
+		t.test7();
+		t.test8();
+		t.test9();
 	}
 
 }
